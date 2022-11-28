@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
     printf("<===============>\n");
     printf("<===============>\n");
     printf("<===============>\n");
+    printf("----------Calculator----------\n");
     printf("%d + %d => %d\n", a, b, add(a, b));
     printf("%d - %d => %d\n", a, b, sub(a, b));
     printf("%d * %d => %d\n", a, b, mul(a, b));
